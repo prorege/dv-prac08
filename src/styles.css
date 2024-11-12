@@ -1,0 +1,19 @@
+/* src/Styles.css */
+/* Example of reusable styles */
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
+
+.button {
+  padding: 10px;
+  background-color: #36a2eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #4bc0c0;
+}
